@@ -3,7 +3,7 @@ table, td, th {
 }
 
 .center {
-    width: 100%;
+    width: 75%;
     margin: auto;
     text-align: center;
 }
